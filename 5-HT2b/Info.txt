@@ -1,0 +1,21 @@
+21.10.2016, 17:00 GMT
+---------------------
+IC50, EC50 and ki data for homo sapiens target 5-HT2b were extracted:
+All substances with pChEMBL value were kept and manually desalted.
+Classification were based on pChEMBL value of relevant ligands:
+- Fenfluramine (R-, S- & Nor-variations): CHEMBL87493(0); CHEMBL438145(0); CHEMBL248702(0); CHEMBL253811(1: 7.8); CHEMBL250881(0) 
+- Phentermine: CHEMBL1574(0)
+(due to clinical relevance)
+- Serotonin: CHEMBL39(15: 9.3, 9.07, 9.04, 8.97, 8.96, 8.82, 8.82, 8.24, 7.96, 7.92, 7.92, 7.89, 7.89, 7.87, 7.6)
+(as natural ligand)
+
+Classification* defined as
+Class 3: pChEMBL >= 7
+Class 2: 7 > pChEMBL >= 6
+Class 1: 6 > pChEMBL
+
+For binary classification*:
+Class 2: pChEMBL >= 6
+Class 1: 6 > pChEMBL
+
+*in case of conflicting classes, higher classes (worst case) is assigned)

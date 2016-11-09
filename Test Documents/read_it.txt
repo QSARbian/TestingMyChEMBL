@@ -1,0 +1,5 @@
+c1ccccc1CC(N)CCCC
+c1ccccc1CC(N)C(F)(F)F
+c1ccccc1CC(N)CCC(=O)C
+c1ccccc1CC(N)CC(CC)CC
+c1ccccc1CC(N)CCCl
